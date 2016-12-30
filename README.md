@@ -1,10 +1,10 @@
 # olyutorskii GitHub page
 
-- https://sites.google.com/site/olyutorskiipit/
-- https://github.com/olyutorskii
-- https://bitbucket.org/olyutorskii/
-- https://ja.osdn.net/users/olyutorskii/
-- https://twitter.com/olyutorskii
-- https://olyutorskii.wordpress.com/
+- [Google Sites (portal)](https://sites.google.com/site/olyutorskiipit/)
+- [GitHub account](https://github.com/olyutorskii)
+- [Bitbucket account](https://bitbucket.org/olyutorskii/)
+- [OSDN account](https://ja.osdn.net/users/olyutorskii/)
+- [Twitter account](https://twitter.com/olyutorskii)
+- [WordPress.com Blog](https://olyutorskii.wordpress.com/)
 
-[Original Jekyll Welcome page](https://github.com/olyutorskii/olyutorskii.github.io/blob/17c3c1ed543a1b38b64ad14a04965000ccdedc19/README.md)
+######[Original Jekyll Welcome page](JekyllInit.md)
