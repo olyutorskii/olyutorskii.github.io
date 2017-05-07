@@ -6,5 +6,3 @@
 - [OSDN account](https://ja.osdn.net/users/olyutorskii/)
 - [Twitter account](https://twitter.com/olyutorskii)
 - [WordPress.com Blog](https://olyutorskii.wordpress.com/)
-
-######[Original Jekyll Welcome page](JekyllInit.md)
